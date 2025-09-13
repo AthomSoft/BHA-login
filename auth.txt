@@ -1,3 +1,4 @@
-admin:admin
-user2:demo25
-user3:demo25
+admin:admin123:2025-12-31
+zoro:zoro2025:2025-10-15:zoro#1234
+btcfan:testpass:never
+test:test:2025-09-20
