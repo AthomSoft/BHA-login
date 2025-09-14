@@ -2,10 +2,11 @@
   "version": 1,
   "ownerKey": "MONSUPERPASS2025",
   "users": {
-   "alice": {
-  "passHash": "sha256:oZ7/0eV5BfbrnOi8v9UFu8Ihbd5pV8tYvDHFF5u6k74=",
+  "alice": {
+  "passHash": "sha256:03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
   "enabled": true,
   "role": "member"
 }
+
 
 
