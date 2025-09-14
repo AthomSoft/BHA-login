@@ -1,9 +1,10 @@
 {
   "version": 1,
-  "ownerKey": "1234", 
+  "ownerKey": "MONSUPERPASS2025", 
   "users": {
     "alice": { "passHash": "sha256:0f2a…", "enabled": true,  "role": "member", "expires": "2026-12-31" },
     "bob":   { "passHash": "sha256:8bd1…", "enabled": false, "role": "member", "expires": null }
   }
 }
+
 
