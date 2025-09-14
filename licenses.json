@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "ownerKey": "TA-CLE-MAITRE-ULTRA-SECRETE", 
+  "users": {
+    "alice": { "passHash": "sha256:0f2a…", "enabled": true,  "role": "member", "expires": "2026-12-31" },
+    "bob":   { "passHash": "sha256:8bd1…", "enabled": false, "role": "member", "expires": null }
+  }
+}
