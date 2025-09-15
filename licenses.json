@@ -1,31 +1,11 @@
-{
-  "version": 1,
-  "ownerKey": "MONSUPERPASS2025",
-  "users": {
-    "alice": {
-      "passHash": "plain:1234",
-      "enabled": true,
-      "role": "member",
-      "msg": "Bonjour Alice",
-      "licenseExp": "2025-12-31",
-      "signature": "alice2025_sig"
-    },
-    "bob": {
-      "passHash": "sha256:YV0jWOmMyEvT04pm8lIX0ogPOF5mp5nBBRHUFOZEm8Y=", 
-      "enabled": true,
-      "role": "tester",
-      "msg": "Compte testeur",
-      "licenseExp": "2025-10-15",
-      "signature": "test_007"
-    },
-    "charlie": {
-      "passHash": "plain:testpass",
-      "enabled": false,
-      "role": "banned",
-      "msg": "Compte désactivé",
-      "licenseExp": "2025-01-01",
-      "signature": "xxx"
-    }
+[
+  {
+    "user": "alice",
+    "pass": "1234",
+    "status": "active",
+    "message": "Bienvenue Alice",
+    "licenseExp": "2025-12-31",
+    "signature": "Test Alpha"
   }
-}
+]
 
