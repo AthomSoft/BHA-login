@@ -7,5 +7,14 @@
     "licenseExp": "2025-12-31",
     "signature": "Test Alpha"
   }
+  {
+    "user": "bob",
+    "pass": "5678",
+    "status": "active",
+    "message": "Salut Bob",
+    "licenseExp": "2025-10-31",
+    "signature": "demo"
+  }
 ]
+
 
